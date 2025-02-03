@@ -1,0 +1,11 @@
+put_firstname,put_lastname,put_birthdate,put_email,put_phone,put_street1,put_street2,put_city,put_state_province,put_postal_code,put_country
+Bruce,Wayne,1985-02-19,bruce.wayne@wayneenterprises.com,5551221234,1007 Wayne Manor,Wayne St.,Gotham City,Gotham,11223,USA
+Alfred,Pennyworth,1945-06-30,alfred.pennyworth@wayneenterprises.com,5550005678,1007 Wayne Manor,Guest House,Gotham City,Gotham,11223,USA
+Dick,Grayson,1990-03-10,dick.grayson@waynestreet.com,5553219101,253 Crime Alley,Rich St.,Gotham City,Gotham,11224,USA
+Barbara,Gordon,1992-07-23,barbara.gordon@gothampd.com,5558763456,80 Gotham Plaza,Barstreet,Gotham City,Gotham,11225,USA
+Tim,Drake,1995-01-25,tim.drake@batfam.com,5550237890,101 East End Ave,Tim St.,Gotham City,Gotham,11226,USA
+Selina,Kyle,1987-05-14,selina.kyle@catco.com,5552552345,333 Batcave Rd,Top Floor,Gotham City,Gotham,11227,USA
+Harvey,Dent,1982-11-01,harvey.dent@gothamcity.com,5555556789,405 White Chapel,Harv Manor,Gotham City,Gotham,11228,USA
+Victor,Zsasz,1980-04-03,victor.zsasz@killersinc.com,5558881122,567 Arkham Rd,Unit 2,Gotham City,Gotham,11229,USA
+Lucius,Fox,1965-08-29,lucius.fox@wayneenterprises.com,5552693344,1007 Wayne Manor,Luci Street,Gotham City,Gotham,11230,USA
+Joker,ClownPrince,1970-07-15,joker.clownprince@gothamcity.com,5550116677,99 Chaos St,Room 101,Gotham City,Gotham,11232,USA
